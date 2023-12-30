@@ -1,0 +1,18 @@
+{
+  "name": "frost_cypress_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  },
+  "devDependencies": {
+    "neat": "^2.1.0",
+    "neat-csv": "^5.2.0"
+  }
+}
