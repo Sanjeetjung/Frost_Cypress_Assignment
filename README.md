@@ -29,4 +29,4 @@ Before running the tests, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sanjeetjung/CronlinkCypressAutomation.git
+   git clone https://github.com/Sanjeetjung/CronlinkTestAutomation.git
