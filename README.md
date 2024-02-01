@@ -1,18 +1,17 @@
-# Frost_Cypress_InputForm
+# Cronlink_Cypress_InputForm
 
-This repository contains an input form testing suite using Cypress for FrostDigiAI.
+This repository contains an input form testing suite using Cypress for CronLink.ca.
 
 ## Description
 
-This project includes Cypress tests for validating the input form functionalities in FrostDigiAI's application.
+This project includes Cypress tests for validating the Register and Login form functionalities in Cronlink's application.
 
 ## Features
 
 - Validate input fields for correctness.
 - Tests form submission and error handling.
-  Test 1: Cannot submit an Input Form with an invalid email address.
-  Test 2: Cannot submit an Input Form with blank "Name".
-  Test 3: Cannot submit an Input Form with a blank "Country" Field.
+  Test 1: Cannot submit an Register Form with an blank Phone Number.
+
 
 ## Getting Started
 
@@ -30,4 +29,4 @@ Before running the tests, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Sanjeetjung/Frost_Cypress_InputForm.git
+   git clone https://github.com/Sanjeetjung/CronlinkCypressAutomation.git

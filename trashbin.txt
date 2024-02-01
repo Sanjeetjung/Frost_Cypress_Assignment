@@ -1,3 +1,54 @@
+yogesh@kodiary.com
+ 
+import { beforeEach } from "mocha";
+ 
+type(table[randomRow]['Company Description'])
+ 
+Name
+ 
+done
+ 
+
+    // return false to prevent the error from
+    // failing this test
+
+
+
+ 
+ return false
+  })
+ 
+ cy.on('uncaught:exception', (err, runnable) => {
+      expect(err.message).to.include('something about the error')
+ 
+  done()
+ 
+Cypress.on('uncaught:exception', (err, runnable) => {
+    // returning false here prevents Cypress from
+    // failing the test
+    return false
+  })
+ 
+ cy.get('.bg-gray-700').click()
+ 
+cy.get('.active > .page-scroll',).click()
+ 
+cy.request(
+ 
+cy.get('
+ 
+cy.get(':nth-child(20) > .text-black').click()
+ 
+cy.get('
+ 
+beforeEach(() => {
+    
+ })
+ 
+auth
+ 
+'auth/register'
+ 
  "neat": "^2.1.0",
  
  "neat": "^2.1.0",
